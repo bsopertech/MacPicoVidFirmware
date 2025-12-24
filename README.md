@@ -1,5 +1,5 @@
 # MacPicoVid Firmware Files
-Compiled UF2 firmware files for Pi Pico boards used with the MacPicoVid project boards. Files built/compiled from:
+Compiled UF2 firmware files for Pi Picos used with the MacPicoVid project boards. Files built/compiled from:
 https://github.com/guruthree/mac-se-video-converter
 
 Files in this repo:
